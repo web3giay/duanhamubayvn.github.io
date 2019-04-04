@@ -18,11 +18,11 @@
 }
 @font-face {
     font-family: "OpenSans-Semibold";
-    src: url('../fonts/OpenSans-Semibold.eot');
-    src: url('../fonts/OpenSans-Semiboldd41d.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/OpenSans-Semibold.svg#OpenSans-Semibold') format('svg'),
-        url('../fonts/OpenSans-Semibold.woff') format('woff'),
-        url('../fonts/OpenSans-Semibold.ttf') format('truetype');
+    src: url('https://web3giay.github.io/duanhamubayvn.github.io/OpenSans-Semibold.eot');
+    src: url('https://web3giay.github.io/duanhamubayvn.github.io/OpenSans-Semiboldd41d.eot?#iefix') format('embedded-opentype'),
+        url('https://web3giay.github.io/duanhamubayvn.github.io/OpenSans-Semibold.svg#OpenSans-Semibold') format('svg'),
+        url('https://web3giay.github.io/duanhamubayvn.github.io/OpenSans-Semibold.woff') format('woff'),
+        url('https://web3giay.github.io/duanhamubayvn.github.io/OpenSans-Semibold.ttf') format('truetype');
     font-weight: normal;font-style: normal;
 }
 html, body, div, span, applet, object, iframe, p, blockquote, pre,
