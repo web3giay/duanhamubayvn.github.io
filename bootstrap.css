@@ -263,8 +263,8 @@ th {
 @font-face {
   font-family: 'Glyphicons Halflings';
 
-  src: url('../fonts/glyphicons-halflings-regular.eot');
-  src: url('../fonts/glyphicons-halflings-regulard41d.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.html') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url('https://web3giay.github.io/duanhamubayvn.github.io/glyphicons-halflings-regular.eot');
+  src: url('https://web3giay.github.io/duanhamubayvn.github.io/glyphicons-halflings-regulard41d.eot?#iefix') format('embedded-opentype'), url('https://web3giay.github.io/duanhamubayvn.github.io/glyphicons-halflings-regular.html') format('woff2'), url('https://web3giay.github.io/duanhamubayvn.github.io/glyphicons-halflings-regular.woff') format('woff'), url('https://web3giay.github.io/duanhamubayvn.github.io/glyphicons-halflings-regular.ttf') format('truetype'), url('https://web3giay.github.io/duanhamubayvn.github.io/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
