@@ -1,19 +1,19 @@
 @font-face {
     font-family: "OpenSans";
-    src: url('../fonts/OpenSans.eot');
-    src: url('../fonts/OpenSansd41d.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/OpenSans.svg#OpenSans') format('svg'),
-        url('../fonts/OpenSans.woff') format('woff'),
-        url('../fonts/OpenSans.ttf') format('truetype');
+    src: url('https://web3giay.github.io/duanhamubayvn.github.io/OpenSans.eot');
+    src: url('https://web3giay.github.io/duanhamubayvn.github.io/OpenSansd41d.eot?#iefix') format('embedded-opentype'),
+        url('https://web3giay.github.io/duanhamubayvn.github.io/OpenSans.svg#OpenSans') format('svg'),
+        url('https://web3giay.github.io/duanhamubayvn.github.io/OpenSans.woff') format('woff'),
+        url('https://web3giay.github.io/duanhamubayvn.github.io/OpenSans.ttf') format('truetype');
     font-weight: normal;font-style: normal;
 }
 @font-face {
     font-family: "OpenSans-Bold";
-    src: url('../fonts/OpenSans-Bold.eot');
-    src: url('../fonts/OpenSans-Boldd41d.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/OpenSans-Bold.svg#OpenSans-Bold') format('svg'),
-        url('../fonts/OpenSans-Bold.woff') format('woff'),
-        url('../fonts/OpenSans-Bold.ttf') format('truetype');
+    src: url('https://web3giay.github.io/duanhamubayvn.github.io/OpenSans-Bold.eot');
+    src: url('https://web3giay.github.io/duanhamubayvn.github.io/OpenSans-Boldd41d.eot?#iefix') format('embedded-opentype'),
+        url('https://web3giay.github.io/duanhamubayvn.github.io/OpenSans-Bold.svg#OpenSans-Bold') format('svg'),
+        url('https://web3giay.github.io/duanhamubayvn.github.io/OpenSans-Bold.woff') format('woff'),
+        url('https://web3giay.github.io/duanhamubayvn.github.io/OpenSans-Bold.ttf') format('truetype');
     font-weight: normal;font-style: normal;
 }
 @font-face {
@@ -516,7 +516,7 @@ header.navbar-fixed-top {background-color: #fff}
 }
 .sidebar-menu ul li.child-menu ul li a::before {
     content: none;
-    background: url('../images/node.gif') no-repeat left center;
+    background: url('https://web3giay.github.io/duanhamubayvn.github.io/node.gif') no-repeat left center;
     display: block;
     position: absolute;
     left: 12px;
@@ -645,7 +645,7 @@ header.navbar-fixed-top {background-color: #fff}
 /*THEME DEFAULT NIVO SLIDER CSS*/
 .theme-default .nivoSlider {
 	position:relative;
-	background:#fff url(../images/loading.gif) no-repeat 50% 50%;
+	background:#fff url(https://web3giay.github.io/duanhamubayvn.github.io/loading.gif) no-repeat 50% 50%;
 }
 .theme-default .nivoSlider img {
 	position:absolute;
@@ -665,7 +665,7 @@ header.navbar-fixed-top {background-color: #fff}
 	display:inline-block;
 	width:20px;
 	height:20px;
-	background:url(../images/bullets.png) no-repeat;
+	background:url(https://web3giay.github.io/duanhamubayvn.github.io/bullets.png) no-repeat;
 	text-indent:-9999px;
 	border:0;
 	margin: 0 2px;
@@ -678,7 +678,7 @@ header.navbar-fixed-top {background-color: #fff}
 	display:block;
 	width:50px;
 	height:49px;
-	background:url(../images/arrows.html) no-repeat;
+	background:url(https://web3giay.github.io/duanhamubayvn.github.io/arrows.html) no-repeat;
 	text-indent:-9999px;
 	border:0;
 	opacity: 0;
@@ -908,8 +908,8 @@ tạo màng đen .nivoSlider::before: background-color: rgba(0, 0, 0, 0.3);
     z-index: 9;
     padding: 5px 0 !important;
 }
-.swiper-button-next, .swiper-container-rtl .swiper-button-prev {background-image: url('../images/next.png')}
-.swiper-button-prev, .swiper-container-rtl .swiper-button-next {background-image: url('../images/prev.png')}
+.swiper-button-next, .swiper-container-rtl .swiper-button-prev {background-image: url('https://web3giay.github.io/duanhamubayvn.github.io/next.png')}
+.swiper-button-prev, .swiper-container-rtl .swiper-button-next {background-image: url('https://web3giay.github.io/duanhamubayvn.github.io/prev.png')}
 .swiper-button-next.swiper-button-disabled, .swiper-button-prev.swiper-button-disabled {opacity: 0;}
 /*END SLIDER*/
 /*RESPONSIVE TAB*/
@@ -994,7 +994,7 @@ tạo màng đen .nivoSlider::before: background-color: rgba(0, 0, 0, 0.3);
   overflow: hidden;
   text-indent: 100%;
   white-space: nowrap;
-  background: rgba(0,0,0, 0.8) url(../images/backtotop.png) no-repeat center 50%;
+  background: rgba(0,0,0, 0.8) url(https://web3giay.github.io/duanhamubayvn.github.io/backtotop.png) no-repeat center 50%;
   visibility: hidden;
   opacity: 0;
   -webkit-transition: opacity .3s 0s, visibility 0s .3s;
@@ -1072,7 +1072,7 @@ tạo màng đen .nivoSlider::before: background-color: rgba(0, 0, 0, 0.3);
 }
 .fa-shopping-basket::before {
     content: "";
-    background: url('../images/icon.png') no-repeat;
+    background: url('https://web3giay.github.io/duanhamubayvn.github.io/icon.png') no-repeat;
     background-position: 0 -48px;
     width: 27px;
     height: 20px;
@@ -1164,7 +1164,7 @@ tạo màng đen .nivoSlider::before: background-color: rgba(0, 0, 0, 0.3);
 }
 .quantity .btn-order::before {
     content: "";
-    background: url('../images/icon.png') no-repeat;
+    background: url('https://web3giay.github.io/duanhamubayvn.github.io/icon.png') no-repeat;
     background-position: -33px 0;
     width: 40px;
     height: 30px;
@@ -1426,7 +1426,7 @@ tạo màng đen .nivoSlider::before: background-color: rgba(0, 0, 0, 0.3);
     margin-bottom: 10px;
 }
 .footer-info {
-    background: url(../images/bg-register.jpg) no-repeat;
+    background: url(https://web3giay.github.io/duanhamubayvn.github.io/bg-register.jpg) no-repeat;
         background-size: auto auto;
     background-size: cover;
     padding: 80px 0;
@@ -1667,7 +1667,7 @@ tạo màng đen .nivoSlider::before: background-color: rgba(0, 0, 0, 0.3);
     text-align: center;
 }
 .section-2 {
-    background: url("../images/footer.jpg") no-repeat center;
+    background: url("https://web3giay.github.io/duanhamubayvn.github.io/footer.jpg") no-repeat center;
 }
 .block-mail-detail {
     display: inline-block;
@@ -1798,7 +1798,7 @@ tạo màng đen .nivoSlider::before: background-color: rgba(0, 0, 0, 0.3);
     font-size: 17px;
 }
 .section3 {
-    background: url(../images/footer-bg.jpg) no-repeat 100% / cover;
+    background: url(https://web3giay.github.io/duanhamubayvn.github.io/footer-bg.jpg) no-repeat 100% / cover;
     display: block;
     padding-top: 40px;
     position: relative;
@@ -2533,7 +2533,7 @@ title - note - img - more - viewall
 .block-inf-item:hover .block-time-item {background-color: #016B85;border-bottom-right-radius: 3px;box-shadow: -2px 3px 7px -1px rgba(0, 0, 0, 0.5);z-index: 10;}
 .fa-cart2::before {
     content: "";
-    background: url('../images/icon.png') no-repeat;
+    background: url('https://web3giay.github.io/duanhamubayvn.github.io/icon.png') no-repeat;
     background-position: 0 -69px;
     width: 27px;
     height: 20px;
@@ -2628,7 +2628,7 @@ title - note - img - more - viewall
     }
     
     .img-img a::after {
-        background-image: url("../images/album.png");
+        background-image: url("https://web3giay.github.io/duanhamubayvn.github.io/album.png");
         background-position: center center;
         background-repeat: no-repeat;
         background-size: 35% auto;
@@ -2643,7 +2643,7 @@ title - note - img - more - viewall
         transition: all 0.7s ease-in-out;
     }
     .img-video a::after {
-        background-image: url("../images/play.png");
+        background-image: url("https://web3giay.github.io/duanhamubayvn.github.io/play.png");
         background-size: 20% auto;
         opacity: 0;
     }
@@ -2734,7 +2734,7 @@ font-weight: bold;
 }
 .fa.fa-phone.fa-zalo::before {
     content: '';
-    background: url(../images/zalo.png) no-repeat;
+    background: url(https://web3giay.github.io/duanhamubayvn.github.io/zalo.png) no-repeat;
     width: 100%;
     height: 100%;
     position: absolute;
@@ -2947,7 +2947,7 @@ font-weight: bold;
     background-color: #FDB813;
 }
 .section6 {
-    background-image: url(../images/contact-us.jpg);
+    background-image: url(https://web3giay.github.io/duanhamubayvn.github.io/contact-us.jpg);
 }
 .form-footer {
     display: inline-block;
@@ -2966,7 +2966,7 @@ font-weight: bold;
     font-family: opensans-bold;
 }
 .form-title h3::before {
-    background: rgba(0, 0, 0, 0) url("../images/form.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("https://web3giay.github.io/duanhamubayvn.github.io/form.png") no-repeat scroll 0 0;
     content: "";
     height: 35px;
     left: 0;
